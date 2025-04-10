@@ -1,1 +1,3 @@
-discord.py flake8 pytest
+discord.py
+flake8
+pytest
