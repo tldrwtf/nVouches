@@ -37,7 +37,7 @@ nVouches Bot! This bot streamlines vouch submissions, enables recovery of past v
 Run:
 
 ```bash
-py main.py
+py test.py
 ```
 
 ## Commands
